@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yugandhar Mohite</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate Machine learning & Data Engineer from India</h3>
 
 - 🔭 I’m currently working on **Health Portal**
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [**Resume**](https://drive.google.com/drive/folders/1i3rPTk_8-pcoYvuWrsiAQiIfweEeXUzQ?usp=share_link)
 
-- 💬 Ask me about **Mera lund ka size**
+- 💬 Ask me about **Python, Machine Learning**
 
 - 📫 How to reach me **yugandhardmohite5939@gmail.com**
 
