@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1i3rPTk_8-pcoYvuWrsiAQiIfweEeXUzQ?usp=share_link](https://drive.google.com/drive/folders/1i3rPTk_8-pcoYvuWrsiAQiIfweEeXUzQ?usp=share_link)
+- 👨‍💻 All of my projects are available at [**Resume**](https://drive.google.com/drive/folders/1i3rPTk_8-pcoYvuWrsiAQiIfweEeXUzQ?usp=share_link)
 
 - 💬 Ask me about **Mera lund ka size**
 
