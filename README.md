@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I am Yugandhar Mohite</h1>
 <h3 align="center">A passionate Machine learning & Data Engineer from India</h3>
 
-- 🔭 I’m currently working on **Health Portal**
+- 🔭 I’m currently working on **Different Projects**
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [**Resume**](https://drive.google.com/drive/folders/1i3rPTk_8-pcoYvuWrsiAQiIfweEeXUzQ?usp=share_link)
+- 👨‍💻 All of my projects are available at [**Resume**](https://drive.google.com/file/d/1RhTvMhEmMqhutwdnFu9NhmdcsUb5gHBT/view?usp=sharing)
 
 - 💬 Ask me about **Python, Machine Learning**
 
