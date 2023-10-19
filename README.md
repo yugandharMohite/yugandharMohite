@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I am Yugandhar Mohite</h1>
+<h1 align="center">Hi 👋, I am Yugandhar Dattatray Mohite</h1>
 <h3 align="center">A passionate Machine learning & Data Science enthusiast from India</h3>
 
 - 🔭 I’m currently working on **Different Projects**
