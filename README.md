@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I am Yugandhar Dattatray Mohite</h1>
 <h3 align="center">A passionate Machine learning & Data Science enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Different Projects**
+- 🔭 I’m currently working on **Different Projects and my Skill Set**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [**Resume**](https://drive.google.com/file/d/1RhTvMhEmMqhutwdnFu9NhmdcsUb5gHBT/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [**Resume**](https://drive.google.com/file/d/1VgIbUUW0FOIoyuvaWiWLQ-zmD4U3p3zk/view?usp=sharing)
 
-- 💬 Ask me about **Python, Machine Learning**
+- 💬 Ask me about **Python, Machine Learning, Data Analysis, Data Visualization**
 
 - 📫 How to reach me **yugandhardmohite5939@gmail.com**
 
